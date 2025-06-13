@@ -11,7 +11,7 @@ I will however direct you to the [Wikipedia article on the subject](https://en.w
 > Inside this repository is an Obsidian vault. It should be as simple as cloning the repo and opening the `vault` folder as a vault.
 
 ## Point Of This Conlang
-There are many ideas and thoughts I have on a daily basis that I find difficult to express in the one language I know, English. I also have a lot of frustration with some of the shortcomings of English. I want to make something that lets me express myself more *correctly*, if not more coherently (due to my assumption that no one else will learn this language.)
+There are many ideas and thoughts I have on a daily basis that I find difficult to express in the one language I know, English. I also have a lot of frustration with some of the shortcomings of English. I want to make something that lets me express myself more *correctly*, if not more coherently (due to my assumption that no one else will learn this language.) I'd say the mission statement is "allow me to communicate difficult ideas" but it's definitely going to branch away in some aspects as I just enjoy playing with language features.
 
 Key ideas include:
 - **Synthetic language**: forces you to describe a concept to speak about it, requiring introspection on the part of the speaker and revealing personal associations to the listener
