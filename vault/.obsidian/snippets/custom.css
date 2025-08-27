@@ -1,0 +1,4 @@
+.callout[data-callout="casual"] {
+    --callout-color: 255, 222, 0;
+    --callout-icon: lucide-cat;
+}
