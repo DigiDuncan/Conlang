@@ -12,6 +12,8 @@
 | ---- | ---------- | ------------------------------------------ |
 | ba   | big, large |                                            |
 | su   | small      | from Japanese ッ(*tsu*), the smallest sound |
+| ti   | good       |                                            |
+| hu   | bad        |                                            |
 
 ### Concepts
 
@@ -48,6 +50,18 @@ Pronouns can add -pu or -up to signify subject/object. Think of it as the subjec
 
 
 Pronouns can be modified in two other cases, *relational* and *descriptive*. Relational modifiers identify the speaker's relationship to the person being spoken about, and descriptive modifiers specify the target more clearly by adding adjectives.
+
+### Relational Modifiers
+
+Relational modifiers are always optional, and are added the end of a pronoun (or name) to signify the spoken about's relationship to the speaker.
+
+| suffix | definition                           |
+| ------ | ------------------------------------ |
+| -      | on the same level as the speaker[^2] |
+| -      | on a higher level than the speaker   |
+| -      | on a lower level than the speaker    |
+
+
 ## Numbers
 
 > [!NOTE] Remember!
@@ -64,7 +78,7 @@ Pronouns can be modified in two other cases, *relational* and *descriptive*. Rel
 
 For the next numbers, add *-a* to the end of the number word in the slots other than the final one. For instance, 188<sub>10</sub> (BC<sub>16</sub>) would be *kimea-kihi*. Numbers never end with *-a*; instead, 70<sub>16</sub> would be *peao*.[^1] 
 
-The *thousand* equivalent is ending the number in *-ba* (from the word for big), and this can be stacked every 16<sup>3</sup> (so the *million* equivalent is *-baba*). As an example, DEADBEEF<sub>16</sub> reads as *kiheakipibaba-kimiakiheaba-kipiakipiakipe*, which has a value of 3,735,928,559.
+The *thousand* equivalent is ending the number in *-ba* (from the word for big), and this can be stacked every 16<sup>3</sup> (so the *million* equivalent is *-baba*). As an example, DEADBEEF<sub>16</sub> reads as *kiheakipibaba-kimiakiheaba-kipiakipiakipe*, which has a value of 3,735,928,559<sub>10</sub>.
 
 If you *must* use Base 10 (decimal) numbers, you can use *-u* as a separator instead of *-a*. For instance, 98<sub>10</sub> would be *kinu-kon*. Equivalently, *-ba* becomes *-bu*.
 
@@ -86,4 +100,15 @@ Negative numbers add the negation operator *kom-*, as in negative 4, *komhi*.
 | -m&  | turns a noun into an adjective        | like English *-y*                                      |
 | -p&  | turns a verb into a doer of that verb | like English *-er*                                     |
 
+## Tone Indicators
+
+Some words and suffixes can be used to modify a sentence of word to indicate the intended tone, since by default tone is assumed neutral.
+
+| word/suffix | tone indicator  |
+| ----------- | --------------- |
+| -iti        | positive (/pos) |
+| -uhu        | negative (/neg) |
+|             |                 |
+
 [^1]: I might revisit this; I like the idea that you can always tell a number is "over," though.
+[^2]: What "level" means is contextual -- this may be revised later since it somewhat flies in the face of "making difficult concepts easier to understand" when I introduce a difficult concept that isn't clearly defined.

@@ -4,7 +4,7 @@
 - It's fine, it works
 
 ## Consonants
-- m, h, p, k, v
+- m, h, p, k, v, b, s
 - n (can only be used at the end of a word[^1])
 ## Syllables
 Syllables are a vowel, optionally preceded by a consonant, optionally succeeded by a "ending consonant" (either "n" or "p".)
