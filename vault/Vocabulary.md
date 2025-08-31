@@ -1,10 +1,11 @@
 ## Words
 ### Nouns
 
-| word | definition                                     | notes             |
-| ---- | ---------------------------------------------- | ----------------- |
-| &    | thing, generic inanimate pronoun, object, noun | from English *uh* |
-| pa   | action, verb; *-pa* can "verb" a noun          |                   |
+| word | definition                                     | notes                |
+| ---- | ---------------------------------------------- | -------------------- |
+| &    | thing, generic inanimate pronoun, object, noun | from English *uh*    |
+| pa   | action, verb; *-pa* can "verb" a noun          |                      |
+| e    | question, "what?"                              | from multiple, *eh?* |
 
 ### Adjectives
 
@@ -88,7 +89,7 @@ Negative numbers add the negation operator *kom-*, as in negative 4, *komhi*.
 | word   | definition | notes                            |
 | ------ | ---------- | -------------------------------- |
 | mipa   | to double  | from *mi + pa*, or "two-ing"     |
-| kompia | to half    | from *kom- + mipa*, "un-two-ing" |
+| komipa | to half    | from *kom- + mipa*, "un-two-ing" |
 
 ## Affixes
 
@@ -96,6 +97,7 @@ Negative numbers add the negation operator *kom-*, as in negative 4, *komhi*.
 | ---- | ------------------------------------- | ------------------------------------------------------ |
 | kom- | not, negation, "un-"                  | if prefixed to a word that starts with *m*, drop one m |
 | kam- | opposite, "anti-"                     |                                                        |
+| -ba  | very, extremely                       | from *ba*, for big                                     |
 | -pa  | turns a noun into a verb              | see [[#Nouns]]                                         |
 | -m&  | turns a noun into an adjective        | like English *-y*                                      |
 | -p&  | turns a verb into a doer of that verb | like English *-er*                                     |
